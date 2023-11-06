@@ -3,7 +3,7 @@
   - [Open Source Barter](??) options can help us all make progress and team up more effectively.
 ---
 ### Course Overviews:
-- Here is the [public link](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpostart doc. 
+- Here is the [public github repository link](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpostart doc. 
 - This doc section got large, so it got its own [separate page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/course-overviews.md).
 - We also have a [page of terms](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate.
 ---
