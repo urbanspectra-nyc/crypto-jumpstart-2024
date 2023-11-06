@@ -3,7 +3,7 @@
   - [Open Source Barter](??) options can help us all make progress and team up more effectively.
 ---
 ### Course Overviews:
-- This doc section got large, so it got its own [separate page](#docs/course-overviews.md).
+- This doc section got large, so it got its own [separate page](docs/course-overviews.md).
 ---
 
 ### Table of Contents
