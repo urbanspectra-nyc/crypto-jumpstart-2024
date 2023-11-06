@@ -1,48 +1,32 @@
-## :wave: The Crypto Professor's Open Source Jumpstart
+## :wave: The Crypto Professor's Open Source Training Jumpstart
 - [Open Source](https://en.wikipedia.org/wiki/Open_source) software tools are free, though you will need to pay attention. 🤓
-  - Barter options can help us make progress and team up
+  - [Open Source Barter](??) options can help us all make progress and team up more effectively.
 ---
 ### Course Overviews:
-#### Now
-- Using gmail and github free accounts, provide those ids to our professors.  Be prepared to answer a few more questions.  ALL DATA IS KEPT 100% PRIVATE.
-- Create weekly study schedule to maximize social learning and team productivity.  Some studying is solo, and some is paired.
-- Review this doc aloud together, making notes of action item tasks, including task validations, and timelines.  Duration: 5m
-- Support the installation and configuration of *secure* phone apps and web app services.  Duration: 5m
-- Specify the minimal time investments necessary to become self-directed in student learning.
-- Support blockchain/crypto service client noobs and gurus with tools and content.
-
-#### Next
-- Identify where icons, diagrams, emojis, fonts, tools and terminology are prerequisite to understanding, learning and task execution. Duration: 
-- Crypto Professor Registration Workflows
-- Clypto Client Registration Workflows
-- Web Playgrounds
-- Team Barter
-- Cloud Labs
-- Team Dojos
-
-#### Soon
-- Specify the minimal time investments necessary to become self-directed in professional learning.
-- Support crypto and blockchain service advisers with tools and content.
-- Identify barter opportuntities to leverage along the way.
-- Consider supporting professors and clients across human languages and dialects.
-- Identify where AI services may be value-added to professors and clients.
-- Use [github pages](https://pages.github.com/) to support these crypto professor course docs.
-
+- This doc section got large, so it got its own [separate page](#docs/course-overviews.md).
 ---
+
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
-- Course Components
+- [Course Components]()
 - Course Setups
 - Course Tasks
 - Course Labs
 - 
+---
+### Learning Goals + Outcomes
+- The goal of this course is to give you a brief introduction to being trained in trading krypto in a classroom-like setting with ZERO-risk.
+  - We will also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+---
+### Course Components
+- We must ensure that security and privacy and social learning are all built into our approaches, by design.
+
 
 ---
-## Learning Goals + Outcomes
 
-The goal of this course is to give you a brief introduction to trading krypto in a no-risk classroom-like setting.
-We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
----
+
+
+
 
 
 
