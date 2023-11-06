@@ -7,7 +7,6 @@
 - This doc section got large, so it got its own [separate page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/course-overviews.md).
 - We also have a [page of terms](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate.
 ---
-
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
 - [Hands-On Course Components](#hands-on-course-components)
@@ -31,7 +30,10 @@
 #### Computers • Phones • Tablets => Web Apps!!!
 #### Phone Apps + Web Services
 
-- Kraken
+- GMail
+- Diagrams.net
+- [Kraken Exchange Web Site](https://www.kraken.com/)
+- [Kraken Exchange Web Site](https://www.kraken.com/)
 - Paypal
 - Signal
 - 
@@ -55,7 +57,7 @@
 ### 📚  Resources 
 
 ### 📚  References
-https://www.cryptovantage.com/news/here-are-the-most-promising-ethical-cryptocurrencies-to-watch-out-for-in-2022/
+- https://www.cryptovantage.com/news/here-are-the-most-promising-ethical-cryptocurrencies-to-watch-out-for-in-2022/
 ---
 
 
