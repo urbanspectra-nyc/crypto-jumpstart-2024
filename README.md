@@ -1,10 +1,17 @@
 ## :wave: The Crypto Professor's Open Source Jumpstart
 - [Open Source](https://en.wikipedia.org/wiki/Open_source) software tools are free, though you will need to pay attention. 🤓
+  - Course Overview:
 ---
 ### Table of Contents
-- []()
+- [Learning Goals + Outcomes](#learning-goals--outcomes) 
+- Course Components
+- Course Setups
+- Course Tasks
+- Course Labs
+- 
+
 ---
-## Course overview and learning outcomes 
+## Learning Goals + Outcomes
 
 The goal of this course is to give you a brief introduction to trading krypto in a no-risk classroom-like setting.
 We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
