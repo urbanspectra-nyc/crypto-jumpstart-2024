@@ -54,6 +54,8 @@
 
 ### 📚  Resources 
 
+### 📚  References
+https://www.cryptovantage.com/news/here-are-the-most-promising-ethical-cryptocurrencies-to-watch-out-for-in-2022/
 ---
 
 
