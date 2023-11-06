@@ -1,5 +1,9 @@
 ## finance professor terms
 
+- crypto
+- blockchain
+- satoshi
+
 - active income : passive income
 
 - costs : prices
