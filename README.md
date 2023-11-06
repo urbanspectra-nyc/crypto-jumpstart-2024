@@ -25,8 +25,8 @@
 ### Hands-On Crypto Professor Course Jumpstart Components
 
 #### Digital Currency Wallets
-[ ] - https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/
-[ ] - [Legend Nano S Plus Digital Currency Wallet](https://shop.ledger.com/pages/ledger-nano-s-plus)
+- https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/
+- [Legend Nano S Plus Digital Currency Wallet](https://shop.ledger.com/pages/ledger-nano-s-plus)
 
 #### Phone Apps + Web App Services
 
