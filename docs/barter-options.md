@@ -17,7 +17,7 @@
   - executed in an automated fashion
 
 - Barter Trade Workflow Stages
-  - Register
+  - Register as Barter Manager or Barter Transaction Party
   - Login
   - Inquire Aboout Gives
   - Propose About Gives
