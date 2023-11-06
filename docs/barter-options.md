@@ -1,12 +1,13 @@
 ## Barter Options
 
-- I aheva lways been interested in [barter](https://en.wikipedia.org/wiki/Barter) and [guilds](https://en.wikipedia.org/wiki/Guild).
+- I have always been interested in [barter exchanges](https://en.wikipedia.org/wiki/Barter) [food co-ops](https://en.wikipedia.org/wiki/Food_cooperative), as well as [guilds](https://en.wikipedia.org/wiki/Guild).
 
-- There are many types of barter options to consider prior to spending any money.
+- At its core, barter is a cashless trade of either products and or swervices.
 
 - There are at least two parties involved in all barter trades.
 
-- At its core, barter is a cashless trade of either products and or swervices.
+- There are many types of barter options to consider prior to spending any money.
+
 
 - Barter trades can be:
   - one-offs
@@ -22,3 +23,6 @@
   - Propose About Gives
   - Inquire Aboout Gets
   - Propose About Gets
+  - Negotiate Terms
+  - Set Expectations
+  - Meet Expectations, Else Escape Clause
