@@ -1,11 +1,12 @@
-## terms
+## finance professor terms
 
-- active income : passive
+- active income : passive income
+
 - costs : prices
-- exchages
+- exchanges
 - supplies : demands
 - trending
-
+- currency types
 
 - file types
   - yaml
