@@ -4,7 +4,7 @@
 ---
 ### Course Overviews:
 - This doc section got large, so it got its own [separate page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/course-overviews.md).
-- We also have a [page of terms](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terms.md) that may facilitate.
+- We also have a [page of terms](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate.
 ---
 
 ### Table of Contents
