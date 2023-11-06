@@ -1,6 +1,6 @@
 ## :wave: The Crypto Professor's Open Source Training Jumpstart 
 - [Open Source](https://en.wikipedia.org/wiki/Open_source) software tools are free, though you will need to pay attention. 🤓
-  - [Open Source Barter](docs/barter.md) options can help us all make progress and team up more effectively.
+  - [Open Source Barter](docs/barter-options.md) options can help us all make progress and team up more effectively.
 ---
 ### Course Overviews:
 - Here is the [public github repository link to this public set of docs](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpostart doc. 
