@@ -10,19 +10,49 @@
 
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
-- [Course Components](#course-components)
-- Course Setups
+- [Hands-On Course Components](#hands-on-course-components)
+- [Course Setups](#course-setups)
 - Course Tasks
 - Course Labs
-- 
+- [Resources](#resources)
 ---
 ### Learning Goals + Outcomes
-- The goal of this course is to give you a brief introduction to being trained in trading krypto in a classroom-like setting with ZERO-risk.
-  - We will also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
----
-### Course Components
-- We must ensure that security and privacy and social learning are all built into our approaches, by design.
+- The goal of this course is to give you a brief intro to being trained in trading crypto in a classroom-like setting with ZERO-risk.
 
+[ ] - We must ensure that security and privacy and social learning are all built into our approaches, by design.
+[ ] - https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/
+[ ] - https://www.fool.com/investing/2022/11/06/gold-or-crypto-which-is-the-better-buy/
+
+- We will also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+---
+### Hands-On Course Components
+
+#### Digital Currency Wallets
+#### Computers • Phones • Tablets => Web Apps!!!
+#### Phone Apps + Web Services
+
+- Kraken
+- Paypal
+- Signal
+- 
+
+#### Setting Crypto Transaction Budgets + Quotas
+
+#### 
+
+|---|
+|---|
+
+
+
+### Course Setups
+- 
+
+#### Professor Setups
+#### Student Setups
+#### Crypto Advisors
+
+### 📚  Resources 
 
 ---
 
@@ -133,3 +163,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
