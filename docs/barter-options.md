@@ -30,7 +30,6 @@
 - Bater Trading Square
 
 
-|---|---|---|
 |    | GET | GIVE |
 |---|---|---|
 |  GET  | | |
