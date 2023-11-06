@@ -26,3 +26,10 @@
   - Negotiate Terms
   - Set Expectations
   - Meet Expectations, Else Escape Clause
+
+- Bater Trading Square
+
+|||
+|---|---|
+|---|---|
+
