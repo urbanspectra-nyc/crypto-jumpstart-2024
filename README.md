@@ -9,7 +9,7 @@
 
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
-- [Course Components]()
+- [Course Components](#course-components)
 - Course Setups
 - Course Tasks
 - Course Labs
