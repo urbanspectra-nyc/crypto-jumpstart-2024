@@ -3,7 +3,7 @@
   - [Open Source Barter](docs/barter-options.md) options can help us all make progress and team up more effectively.
 ---
 ### Course Overviews:
-- Here is the [public github repository link to this public set of docs](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpostart doc. 
+- Here is the [public github repository link to this public set of docs](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpstart doc. 
 - This doc section got large, so it got its own [separate page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/course-overviews.md).
 - We also have a [crypto vocabulary](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate teachign and learning.
 ---
@@ -17,8 +17,8 @@
 ---
 ### Learning Goals + Outcomes
 - The goal of this course is to give you a brief intro to being trained in trading crypto in a classroom-like setting with ZERO-risk.
-[ ] - We must ensure that security and privacy and social learning are all built into our approaches, by design.
-[ ] - https://www.fool.com/investing/2022/11/06/gold-or-crypto-which-is-the-better-buy/
+- We must ensure that security and privacy and social learning are all built into our approaches, by design.
+- https://www.fool.com/investing/2022/11/06/gold-or-crypto-which-is-the-better-buy/
 
 - We will also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 ---
