@@ -26,10 +26,9 @@
 
 #### Digital Currency Wallets
 [ ] - https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/
+[ ] - [Legend Nano S Plus Digital Currency Wallet](https://shop.ledger.com/pages/ledger-nano-s-plus)
 
-#### Computers • Phones • Tablets => Web Apps!!!
-
-#### Phone Apps + Web Services
+#### Phone Apps + Web App Services
 
 - Phone + tablet apps
   - signal
@@ -44,18 +43,14 @@
   - Paypal
   - [Pixlr - Free Photoshop On The Web](https://pixlr.com)
 
+#### Computers • Phones • Tablets => Web Apps!!!
+- [used phones and tablets](gazelle.com)
+- [used laptops and tablets](https://eshop.macsales.com/shop/Apple_Systems/Used/Macs_and_Tablets)
+
 #### Setting Crypto Transaction Budgets + Quotas
-
-#### 
-
-|---|
-|---|
-
 
 
 ### Course Setups
-- 
-
 #### Professor Setups
 #### Student Setups
 #### Crypto Advisors
