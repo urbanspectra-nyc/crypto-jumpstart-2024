@@ -1,6 +1,6 @@
 ## finance professor terms
 
-- crypto
+- cryptocurrency
 - blockchain
 - satoshi
 
