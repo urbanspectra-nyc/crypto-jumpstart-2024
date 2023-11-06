@@ -1,15 +1,15 @@
-## :wave: The Crypto Professor's Open Source Training Jumpstart
+## :wave: The Crypto Professor's Open Source Training Jumpstart 
 - [Open Source](https://en.wikipedia.org/wiki/Open_source) software tools are free, though you will need to pay attention. 🤓
-  - [Open Source Barter](??) options can help us all make progress and team up more effectively.
+  - [Open Source Barter](docs/barter.md) options can help us all make progress and team up more effectively.
 ---
 ### Course Overviews:
-- Here is the [public github repository link](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpostart doc. 
+- Here is the [public github repository link to this public set of docs](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share so others land in this jumpostart doc. 
 - This doc section got large, so it got its own [separate page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/course-overviews.md).
-- We also have a [page of terms](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate.
+- We also have a [crypto vocabulary](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate teachign and learning.
 ---
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
-- [Hands-On Course Components](#hands-on-course-components)
+- [Hands-On Crypto Professor Course  Components](#hands-on-crypto-professor-course-components)
 - [Course Setups](#course-setups)
 - Course Tasks
 - Course Labs
@@ -17,26 +17,32 @@
 ---
 ### Learning Goals + Outcomes
 - The goal of this course is to give you a brief intro to being trained in trading crypto in a classroom-like setting with ZERO-risk.
-
 [ ] - We must ensure that security and privacy and social learning are all built into our approaches, by design.
-[ ] - https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/
 [ ] - https://www.fool.com/investing/2022/11/06/gold-or-crypto-which-is-the-better-buy/
 
 - We will also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 ---
-### Hands-On Course Components
+### Hands-On Crypto Professor Course Jumpstart Components
 
 #### Digital Currency Wallets
+[ ] - https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/
+
 #### Computers • Phones • Tablets => Web Apps!!!
+
 #### Phone Apps + Web Services
 
-- GMail
-- Diagrams.net
-- [Kraken Exchange Web Site](https://www.kraken.com/)
-- [Kraken Exchange Web Site](https://www.kraken.com/)
-- Paypal
-- Signal
-- 
+- Phone + tablet apps
+  - signal
+  - paypal
+  - pocket
+
+- web apps and services
+  - GMail
+  - Diagrams.net
+  - [Kraken Exchange Web Site](https://www.kraken.com/)
+  - [Kraken Exchange Web Site Support](https://support.kraken.com/hc/en-us)
+  - Paypal
+  - [Pixlr - Free Photoshop On The Web](https://pixlr.com)
 
 #### Setting Crypto Transaction Budgets + Quotas
 
