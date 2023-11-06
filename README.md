@@ -1,6 +1,33 @@
 ## :wave: The Crypto Professor's Open Source Jumpstart
 - [Open Source](https://en.wikipedia.org/wiki/Open_source) software tools are free, though you will need to pay attention. 🤓
-  - Course Overview:
+  - Barter options can help us make progress and team up
+---
+### Course Overviews:
+#### Now
+- Using gmail and github free accounts, provide those ids to our professors.  Be prepared to answer a few more questions.  ALL DATA IS KEPT 100% PRIVATE.
+- Create weekly study schedule to maximize social learning and team productivity.  Some studying is solo, and some is paired.
+- Review this doc aloud together, making notes of action item tasks, including task validations, and timelines.  Duration: 5m
+- Support the installation and configuration of *secure* phone apps and web app services.  Duration: 5m
+- Specify the minimal time investments necessary to become self-directed in student learning.
+- Support blockchain/crypto service client noobs and gurus with tools and content.
+
+#### Next
+- Identify where icons, diagrams, emojis, fonts, tools and terminology are prerequisite to understanding, learning and task execution. Duration: 
+- Crypto Professor Registration Workflows
+- Clypto Client Registration Workflows
+- Web Playgrounds
+- Team Barter
+- Cloud Labs
+- Team Dojos
+
+#### Soon
+- Specify the minimal time investments necessary to become self-directed in professional learning.
+- Support crypto and blockchain service advisers with tools and content.
+- Identify barter opportuntities to leverage along the way.
+- Consider supporting professors and clients across human languages and dialects.
+- Identify where AI services may be value-added to professors and clients.
+- Use [github pages](https://pages.github.com/) to support these crypto professor course docs.
+
 ---
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
