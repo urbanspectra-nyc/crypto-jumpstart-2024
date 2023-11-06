@@ -10,11 +10,11 @@
 
 
 - Barter trades can be:
-  - one-offs
-  - microscale (µ) testing
-  - scaled-up testing
-  - executed manually
-  - executed in an automated fashion
+  - one-off trades
+  - microscale (µ) testing trades
+  - scaled-up testing trades
+  - trades executed manually
+  - trades executed in an automated fashion
 
 - Barter Trade Workflow Stages
   - Register as Barter Manager or Barter Transaction Party
