@@ -1,5 +1,7 @@
 ## finance professor terms
 ---
+https://www.msn.com/en-us/money/other/10-tips-to-get-the-maximum-benefits-of-cryptocurrency-auto-trading-robot/ar-AA1jAvaH
+
 -  I: But if you want to follow my lead, then you should take action.
    - I: Tomorrow I will be analyzing the market to see if there are any good trading points that you can prepare for ahead of time
 
@@ -211,3 +213,18 @@ I look forward to watching - and I wonder how to watch you trade from remotely
   - tasks
   - epics
   - slackbots
+
+- natural sciences
+
+- maths
+
+- math as a second language
+
+- education
+  - curriculum
+  - instruction
+  - assessment
+
+- concord
+
+
