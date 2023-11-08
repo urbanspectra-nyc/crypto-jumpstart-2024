@@ -1,6 +1,5 @@
 ## finance professor terms
 ---
-
 -  I: But if you want to follow my lead, then you should take action.
    - I: Tomorrow I will be analyzing the market to see if there are any good trading points that you can prepare for ahead of time
 
@@ -130,6 +129,7 @@ I look forward to watching - and I wonder how to watch you trade from remotely
   - J: so you can let me know when you are doing the prospecting, and I will be the student <bow>
 
 ---
+- [Binary Thinking](https://www.facebook.com/groups/InquiryDrivenDiscussions/posts/3190989584527912/)
 
 ### crypto
 - cryptocurrency
