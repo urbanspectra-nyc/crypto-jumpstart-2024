@@ -1,24 +1,26 @@
 ## Glossaries For Professors
-- Terminology Is Anchored By Contexts and Diagrams
+- All Terminology Must Be Anchored By Contexts and Diagrams
 ---
 ### Table of Contents
-- [Educational terminology](#ediucation-terminology)
-- [blockchain terminology](#blockchain-terminology)
-- [crypto terminology](#crypto-terminology)
-- [technology terminology](#technology-terminology)
-- [maths terminology](#maths-terminology)
+- [Educational Terminology](#ediucation-terminology)
+- [Diagram Terminology and Core Types](#diagram-terminology-and-types)
+- [Blockchain Terminology](#blockchain-terminology)
+- [Crypto Terminology](#crypto-terminology)
+- [Technology Terminology](#technology-terminology)
+- [Maths Terminology](#maths-terminology)
 - [Professor Tanaka Lessons](#professor-tanaka-lessons)
-- [religious terminology](#religious-terminology)
-- [political terminology](#political-terminology)
-- [musical terminology](#musical-terminology)
-- [references](#references)
+- [Religious Terminology](#religious-terminology)
+- [Political Terminology](#political-terminology)
+- [Musical Terminology](#musical-terminology)
+
+- [References](#references)
 ---
-### blockchain terminology
+### Blockchain Terminology
 - [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - [data mining](https://en.wikipedia.org/wiki/Data_mining)
 - 
 
-### crypto termonology
+### Crypto Terminology
 - cryptocurrency
 - satoshi
 - ethereum
