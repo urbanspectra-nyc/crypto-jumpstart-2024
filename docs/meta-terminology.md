@@ -2,6 +2,9 @@
 - All Terminology Must Be Anchored By Contexts and Diagrams
   - Table of contents is sequenced from general to specific.
 ---
+- [Taxonomical Roots and Wings]()
+- [Crypto Professor Terminology]()
+---
 ### Table of Contents
 - [Human Language Terminology](#language-terminology)
 - [Educational Terminology](#ediucation-terminology)
@@ -16,6 +19,7 @@
 - [Sciences Terminology]()
 - [Engineering Terminology]()
 
+### Table of Contents
 - [Blockchain Terminology](#blockchain-terminology)
 - [Crypto Terminology](#crypto-terminology)
 - [Professor Tanaka Lessons](#professor-tanaka-lessons)
@@ -25,6 +29,18 @@
 ### Human Language Terminology
 - syntax
 - grammar
+- synonyms
+- antonyms
+- metaphors
+- analogies
+
+- question types
+  - guiding quetions
+
+- stories
+- themes
+- characters
+- plots
 
 - criteria
 - authenticity
