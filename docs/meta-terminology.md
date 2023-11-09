@@ -2,9 +2,14 @@
 - All Terminology Must Be Anchored By Contexts and Diagrams
   - Table of contents is sequenced from general to specific.
 ---
-- subjects
-  - topics
-    - terms
+- Tree of Taxonomies --> [ Subjects --< Topics --< Terms ]
+- literacies
+- skills
+- fields
+- disciplines
+- professional titles
+- organizational depts
+- team members
 ---
 - [Taxonomical Roots and Wings]()
 - [Crypto Professor Terminology]()
