@@ -3,13 +3,14 @@
   - Table of contents is sequenced from general to specific.
 ---
 - Tree of Taxonomies --> [ Subjects --< Topics --< Terms ]
+- organizational depts
+- academic depts
+- team members
 - literacies
 - skills
 - fields
 - disciplines
 - professional titles
-- organizational depts
-- team members
 ---
 - [Taxonomical Roots and Wings]()
 - [Crypto Professor Terminology]()
@@ -40,29 +41,29 @@
 - [References](#references)
 ---
 ### Human Languages Terminology
+- terminology
+- diagrams
+- stories
+- themes
+- characters
+- plots
 - syntax
 - grammar
-- synonyms
-- antonyms
+- logic
+- synonyms : antonyms
 - compare : contrast
 - dictionaries
 - metaphors
 - analogies
-- spoken
-- written
+- spoken : written
 - verbal : non-verbal
 - ear training
 - alphabets
 - characters
 
-
 - question types
-  - guiding quetions
+  - guiding questions
 
-- stories
-- themes
-- characters
-- plots
 
 - criteria
 - authenticity
