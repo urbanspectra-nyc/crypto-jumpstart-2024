@@ -1,17 +1,33 @@
-## finance professor terms
+## Glossaries For Professors
+- 
 ---
+### Table of Contents
+- [Educational terminology](#ediucation-terminology)
+- [blockchain terminology](#blockchain-terminology)
+- [crypto terminology](#crypto-terminology)
+- [technology terminology](#technology-terminology)
+- [maths terminology](#maths-terminology)
+- [Professor Tanaka Lessons](#professor-tanaka-lessons)
+- [religious terminology](#religious-terminology)
+- [political terminology](#political-terminology)
+- [musical terminology](#musical-terminology)
+- [references](#references)
+---
+### blockchain terminology
+- [blockchain](https://en.wikipedia.org/wiki/Blockchain)
+- [data mining](https://en.wikipedia.org/wiki/Data_mining)
+- 
 
-- [Binary Thinking](https://www.facebook.com/groups/InquiryDrivenDiscussions/posts/3190989584527912/)
-
-### crypto
+### crypto termonology
 - cryptocurrency
-- blockchain
 - satoshi
+- ethereum
+- bitcoin
+- [bitcoin mining](https://www.bitcoinmining.com/)
+- exchanges
 
 - active income : passive income
-
 - costs : prices
-- exchanges
 - supplies : demands
 - trending
 - currency types
@@ -36,7 +52,7 @@
 - edu
   - curriculum
   - instruction
-  - sssessments
+  - assessments
 
 - music
   - rhythm
@@ -97,6 +113,9 @@
 
 - concord
 
+- [Binary Thinking](https://www.facebook.com/groups/InquiryDrivenDiscussions/posts/3190989584527912/)
+---
+### Math As A Second Language Glossary
 
 ---
 ###  Professor Tanaka
