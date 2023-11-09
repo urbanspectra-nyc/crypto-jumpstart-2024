@@ -1,9 +1,15 @@
 ## Glossaries For Professors
 - All Terminology Must Be Anchored By Contexts and Diagrams
+  - Table of contents is sequenced from general to specific.
 ---
 ### Table of Contents
+- [Human Language Terminology](#language-terminology)
 - [Educational Terminology](#ediucation-terminology)
 - [Diagram Terminology and Core Types](#diagram-terminology-and-types)
+- [Standardized Exam Terminology](#s)
+- Criteria
+
+
 - [Blockchain Terminology](#blockchain-terminology)
 - [Crypto Terminology](#crypto-terminology)
 - [Technology Terminology](#technology-terminology)
@@ -15,6 +21,9 @@
 
 - [References](#references)
 ---
+
+### Standardized Exam Terminology
+
 ### Blockchain Terminology
 - [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - [data mining](https://en.wikipedia.org/wiki/Data_mining)
