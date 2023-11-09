@@ -45,6 +45,7 @@
   - diagrams.net
   - [Kraken Exchange Web Site](https://www.kraken.com/)
   - [Kraken Exchange Web Site Support](https://support.kraken.com/hc/en-us)
+  - [Kraaken Bitcoin Info](https://www.kraken.com/learn/buy-bitcoin-btc)
   - Paypal
   - [Pixlr - Free Photoshop On The Web](https://pixlr.com)
 
