@@ -12,6 +12,10 @@
 - [Technology Terminology](#technology-terminology)
 - [Religious Terminology](#religious-terminology)
 - [Political Terminology](#political-terminology)
+- [Philosophy Terminology](#philosophy-terminology)
+- [Sciences Terminology]()
+- [Engineering Terminology]()
+
 - [Blockchain Terminology](#blockchain-terminology)
 - [Crypto Terminology](#crypto-terminology)
 - [Professor Tanaka Lessons](#professor-tanaka-lessons)
@@ -19,7 +23,11 @@
 - [References](#references)
 ---
 ### Human Language Terminology
-- Criteria
+- syntax
+- grammar
+
+- criteria
+- authenticity
 
 
 ---
@@ -28,11 +36,26 @@
 ### Diagram Terminology and Core Types
 ---
 ### Standardized Exam Terminology
-- [Musical Terminology](#musical-terminology)
-- [Technology Terminology](#technology-terminology)
-- [Religious Terminology](#religious-terminology)
-- [Political Terminology](#political-terminology)
-
+---
+### Maths Terminology
+---
+### Musical Terminology
+---
+### Technology Terminology
+---
+### Religious Terminology
+---
+### Political Terminology
+---
+### Philosophy
+- epistemology
+- teleology
+- ontology
+---
+### Sciences
+---
+### Engineering
+---
 ### Blockchain Terminology
 - [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - [data mining](https://en.wikipedia.org/wiki/Data_mining)
