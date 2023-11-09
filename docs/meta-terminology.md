@@ -9,6 +9,8 @@
 - [Human Language Terminology](#language-terminology)
 - [Educational Terminology](#ediucation-terminology)
 - [Diagram Terminology and Core Types](#diagram-terminology-and-types)
+- [Technical Project Management Terminology](#technical-project-management-terminology)
+
 - [Standardized Exam Terminology](#standardized-exam-terminology)
 - [Maths Terminology](#maths-terminology)
 - [Musical Terminology](#musical-terminology)
@@ -17,6 +19,8 @@
 - [Political Terminology](#political-terminology)
 - [Philosophy Terminology](#philosophy-terminology)
 - [Sciences Terminology]()
+- [Legal]()
+- [Psychology]()
 - [Engineering Terminology]()
 
 ### Table of Contents
