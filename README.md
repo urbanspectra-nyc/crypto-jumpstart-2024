@@ -5,7 +5,7 @@
 ### Course Overviews:
 - Here is the [public github repository link to this public set of docs](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024) to share, so that others land in this jumpstart doc. 
 - This doc section got large, so it got its own [separate page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/course-overviews.md).
-- We also have a [crypto vocabulary page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate teachign and learning.
+- We also have a [crypto vocabulary page](https://github.com/urbanspectra-nyc/crypto-jumpstart-2024/blob/main/docs/meta-terminology.md) that may facilitate teaching and learning.
 ---
 ### Table of Contents
 - [Learning Goals + Outcomes](#learning-goals--outcomes) 
