@@ -6,23 +6,32 @@
 - [Human Language Terminology](#language-terminology)
 - [Educational Terminology](#ediucation-terminology)
 - [Diagram Terminology and Core Types](#diagram-terminology-and-types)
-- [Standardized Exam Terminology](#s)
-- Criteria
-
-
-- [Blockchain Terminology](#blockchain-terminology)
-- [Crypto Terminology](#crypto-terminology)
-- [Technology Terminology](#technology-terminology)
+- [Standardized Exam Terminology](#standardized-exam-terminology)
 - [Maths Terminology](#maths-terminology)
-- [Professor Tanaka Lessons](#professor-tanaka-lessons)
+- [Musical Terminology](#musical-terminology)
+- [Technology Terminology](#technology-terminology)
 - [Religious Terminology](#religious-terminology)
 - [Political Terminology](#political-terminology)
-- [Musical Terminology](#musical-terminology)
+- [Blockchain Terminology](#blockchain-terminology)
+- [Crypto Terminology](#crypto-terminology)
+- [Professor Tanaka Lessons](#professor-tanaka-lessons)
 
 - [References](#references)
 ---
+### Human Language Terminology
+- Criteria
 
+
+---
+### Educational Terminology
+---
+### Diagram Terminology and Core Types
+---
 ### Standardized Exam Terminology
+- [Musical Terminology](#musical-terminology)
+- [Technology Terminology](#technology-terminology)
+- [Religious Terminology](#religious-terminology)
+- [Political Terminology](#political-terminology)
 
 ### Blockchain Terminology
 - [blockchain](https://en.wikipedia.org/wiki/Blockchain)
