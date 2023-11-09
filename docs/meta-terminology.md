@@ -30,13 +30,16 @@
 
 - [References](#references)
 ---
-### Human Language Terminology
+### Human Languages Terminology
 - syntax
 - grammar
 - synonyms
 - antonyms
 - metaphors
 - analogies
+- spoken
+- written
+- verbal : non-verbal
 
 - question types
   - guiding quetions
@@ -48,12 +51,12 @@
 
 - criteria
 - authenticity
-
-
 ---
 ### Educational Terminology
 ---
 ### Diagram Terminology and Core Types
+---
+### Technical Project Management Terminology
 ---
 ### Standardized Exam Terminology
 ---
