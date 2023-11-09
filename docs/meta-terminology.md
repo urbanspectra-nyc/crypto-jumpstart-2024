@@ -2,6 +2,10 @@
 - All Terminology Must Be Anchored By Contexts and Diagrams
   - Table of contents is sequenced from general to specific.
 ---
+- subjects
+  - topics
+    - terms
+---
 - [Taxonomical Roots and Wings]()
 - [Crypto Professor Terminology]()
 ---
@@ -35,11 +39,17 @@
 - grammar
 - synonyms
 - antonyms
+- compare : contrast
+- dictionaries
 - metaphors
 - analogies
 - spoken
 - written
 - verbal : non-verbal
+- ear training
+- alphabets
+- characters
+
 
 - question types
   - guiding quetions
