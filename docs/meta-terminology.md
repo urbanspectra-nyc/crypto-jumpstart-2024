@@ -1,5 +1,5 @@
 ## Glossaries For Professors
-- 
+- Terminology Is Anchored By Contexts and Diagrams
 ---
 ### Table of Contents
 - [Educational terminology](#ediucation-terminology)
