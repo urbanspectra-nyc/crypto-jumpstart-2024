@@ -1,5 +1,105 @@
 ## finance professor terms
 ---
+
+- [Binary Thinking](https://www.facebook.com/groups/InquiryDrivenDiscussions/posts/3190989584527912/)
+
+### crypto
+- cryptocurrency
+- blockchain
+- satoshi
+
+- active income : passive income
+
+- costs : prices
+- exchanges
+- supplies : demands
+- trending
+- currency types
+
+
+- file types
+  - yaml
+  - csv
+  - notebooks
+
+- data points
+- notebooks
+- visualizations
+- diagram types
+
+- finance
+  - trades
+  - investments
+  - finance labs
+  - finance dojo sessions
+
+- edu
+  - curriculum
+  - instruction
+  - sssessments
+
+- music
+  - rhythm
+  - melody
+  - harmony
+  - voices
+  - instruments
+  - parts
+  - scores
+
+- data types
+  - chars / string
+  - numerics
+  - temporal
+  - custom
+
+- data structures
+  - timelines
+  - cycles
+  - chains
+  - matrices
+  - trees
+  - lists
+
+- technology
+  - biotech
+  - edu tech
+  - computers
+    - hardware
+    - software
+
+- diagrams
+  - legends
+  - elements
+  - connectors
+  - icons
+  - fonts
+
+- projects
+  - plan
+  - schedule
+  - environments
+  - teams
+  - tasks
+  - epics
+  - slackbots
+
+- natural sciences
+
+- maths
+
+- math as a second language
+
+- education
+  - curriculum
+  - instruction
+  - assessment
+
+- concord
+
+
+---
+###  Professor Tanaka
 https://www.msn.com/en-us/money/other/10-tips-to-get-the-maximum-benefits-of-cryptocurrency-auto-trading-robot/ar-AA1jAvaH
 
 -  I: But if you want to follow my lead, then you should take action.
@@ -129,102 +229,4 @@ I look forward to watching - and I wonder how to watch you trade from remotely
 - I: We're just learning from each other and I'm sharing my knowledge and experience
 - J: I am lucky to have you to set me straight!  rapport will tighten up!
   - J: so you can let me know when you are doing the prospecting, and I will be the student <bow>
-
----
-- [Binary Thinking](https://www.facebook.com/groups/InquiryDrivenDiscussions/posts/3190989584527912/)
-
-### crypto
-- cryptocurrency
-- blockchain
-- satoshi
-
-- active income : passive income
-
-- costs : prices
-- exchanges
-- supplies : demands
-- trending
-- currency types
-
-
-- file types
-  - yaml
-  - csv
-  - notebooks
-
-- data points
-- notebooks
-- visualizations
-- diagram types
-
-- finance
-  - trades
-  - investments
-  - finance labs
-  - finance dojo sessions
-
-- edu
-  - curriculum
-  - instruction
-  - sssessments
-
-- music
-  - rhythm
-  - melody
-  - harmony
-  - voices
-  - instruments
-  - parts
-  - scores
-
-- data types
-  - chars / string
-  - numerics
-  - temporal
-  - custom
-
-- data structures
-  - timelines
-  - cycles
-  - chains
-  - matrices
-  - trees
-  - lists
-
-- technology
-  - biotech
-  - edu tech
-  - computers
-    - hardware
-    - software
-
-- diagrams
-  - legends
-  - elements
-  - connectors
-  - icons
-  - fonts
-
-- projects
-  - plan
-  - schedule
-  - environments
-  - teams
-  - tasks
-  - epics
-  - slackbots
-
-- natural sciences
-
-- maths
-
-- math as a second language
-
-- education
-  - curriculum
-  - instruction
-  - assessment
-
-- concord
-
 
