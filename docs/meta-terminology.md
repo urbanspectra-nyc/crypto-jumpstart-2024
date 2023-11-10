@@ -16,7 +16,7 @@
 - [Taxonomical Roots and Wings]()
 - [Crypto Professor Terminology]()
 ---
-### Table of Contents
+### Table of Contents I
 - [Human Language Terminology](#language-terminology)
 - [Educational Terminology](#ediucation-terminology)
 - [Diagram Terminology and Core Types](#diagram-terminology-and-types)
@@ -34,7 +34,7 @@
 - [Psychology Terminology]()
 - [Engineering Terminology]()
 
-### Table of Contents
+### Table of Contents II
 - [Blockchain Terminology](#blockchain-terminology)
 - [Crypto Terminology](#crypto-terminology)
 - [Professor Tanaka Lessons](#professor-tanaka-lessons)
@@ -63,6 +63,8 @@
 - ear training
 - alphabets
 - characters
+- questions
+- answers
 
 - question types
   - guiding questions
@@ -75,11 +77,18 @@
 - instruction
 - assessments
 
-- course --< Lessons --< [Subjects --< ] Topics --< Terms --< Questions
+- Credentials --< Courses --< Lessons --< [Subjects --< ] Topics --< Terms --< Questions
 ---
 ### Diagram Terminology and Core Types
+
 ---
 ### Technical Project Management Terminology
+
+- project types
+
+- project work
+
+- project teams
 ---
 ### Standardized Exam Terminology
 ---
