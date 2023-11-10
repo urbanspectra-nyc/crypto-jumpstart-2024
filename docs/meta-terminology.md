@@ -1,17 +1,5 @@
 ## Glossaries For Professors
-- All Terminology Must Be Anchored By Contexts and Diagrams.
-  - Each term may have multiple definitions, usually driven by context.
-  - Table of contents has been sequenced from general to specific.
----
-- Tree of Taxonomies --> [ Subjects --< Topics --< Terms ]
-- organizational depts
-- academic depts
-- team members
-- literacies
-- skills
-- fields
-- disciplines
-- professional titles
+- ??
 ---
 - [Taxonomical Roots and Wings]()
 - [Crypto Professor Terminology]()
@@ -40,6 +28,7 @@
 - [Professor Tanaka Lessons](#professor-tanaka-lessons)
 
 - [References](#references)
+- [Glossary + Taxonomy Structuring]()
 ---
 ### Human Languages Terminology
 - dictionary
@@ -347,3 +336,18 @@ I look forward to watching - and I wonder how to watch you trade from remotely
 - J: I am lucky to have you to set me straight!  rapport will tighten up!
   - J: so you can let me know when you are doing the prospecting, and I will be the student <bow>
 
+### Glossary and Taxonomy Structuring
+
+- All Terminology Must Be Anchored By Contexts and Diagrams.
+  - Each term may have multiple definitions, usually driven by context.
+  - Table of contents has been sequenced from general to specific.
+---
+- Tree of Taxonomies --> [ Subjects --< Topics --< Terms ]
+- organizational depts
+- academic depts
+- team members
+- literacies
+- skills
+- fields
+- disciplines
+- professional titles
