@@ -1,6 +1,7 @@
 ## Glossaries For Professors
-- All Terminology Must Be Anchored By Contexts and Diagrams
-  - Table of contents is sequenced from general to specific.
+- All Terminology Must Be Anchored By Contexts and Diagrams.
+  - Each term may have multiple definitions, usually driven by context.
+  - Table of contents has been sequenced from general to specific.
 ---
 - Tree of Taxonomies --> [ Subjects --< Topics --< Terms ]
 - organizational depts
@@ -28,9 +29,9 @@
 - [Religious Terminology](#religious-terminology)
 - [Political Terminology](#political-terminology)
 - [Philosophy Terminology](#philosophy-terminology)
-- [Sciences Terminology]()
-- [Legal]()
-- [Psychology]()
+- [Natural Sciences Terminology]()
+- [Legal Terminology]()
+- [Psychology Terminology]()
 - [Engineering Terminology]()
 
 ### Table of Contents
@@ -41,6 +42,8 @@
 - [References](#references)
 ---
 ### Human Languages Terminology
+- dictionary
+- glossary
 - terminology
 - diagrams
 - stories
@@ -64,11 +67,15 @@
 - question types
   - guiding questions
 
-
 - criteria
 - authenticity
 ---
 ### Educational Terminology
+- curriculum
+- instruction
+- assessments
+
+- course --< Lessons --< [Subjects --< ] Topics --< Terms --< Questions
 ---
 ### Diagram Terminology and Core Types
 ---
